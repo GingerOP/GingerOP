@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Swarnim Suryansh</h1>
 <h3 align="center">I'm an Aspiring Developer and Student from India[NITD'26]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GingerOP&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GingerOP&label=Profile%20views&color=0e75b6&style=flat" alt="swarnim suryansh" /> </p>
 
 
 
@@ -19,8 +19,8 @@
 <a href="https://www.linkedin.com/in/swarnim-suryansh-b42b7b189" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://instagram.com/gingerrr20" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/gingerspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
-<a href="https://leetcode.com/GingerOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gingerspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/geeks-for-geeks.svg" alt="gingerop" height="30" width="40" /></a>
+<a href="https://leetcode.com/GingerOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
 </p>
 
 

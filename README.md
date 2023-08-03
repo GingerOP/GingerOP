@@ -20,7 +20,7 @@
 <a href="https://instagram.com/gingerrr20" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/gingerspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/geeks-for-geeks.svg" alt="gingerop" height="30" width="40" /></a>
-<a href="https://leetcode.com/GingerOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
+<a href="https://leetcode.com/GingerOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/leet-code.svg" alt="warnim suryansh" height="30" width="40" /></a>
 </p>
 
 

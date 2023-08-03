@@ -19,8 +19,8 @@
 <a href="https://www.linkedin.com/in/swarnim-suryansh-b42b7b189" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://instagram.com/gingerrr20" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/gingerspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/geeks-for-geeks.svg" alt="gingerop" height="30" width="40" /></a>
-<a href="https://leetcode.com/GingerOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/swarnim suryansh/swarnim suryansh/main/icons/Social/leet-code.svg" alt="warnim suryansh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gingerspy" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="gingerop" height="30" width="40" /></a>
+<a href="https://leetcode.com/GingerOP" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="warnim suryansh" height="30" width="40" /></a>
 </p>
 
 
